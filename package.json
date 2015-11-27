@@ -1,0 +1,19 @@
+{
+  "name": "victory-waterfall",
+  "version": "0.0.1",
+  "description": "waterfall plot component for victory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boygirl/victory-waterfall.git"
+  },
+  "author": "Lauren Eastridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boygirl/victory-waterfall/issues"
+  },
+  "homepage": "https://github.com/boygirl/victory-waterfall",
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
